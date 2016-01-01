@@ -9,4 +9,6 @@ echo "o";
 echo "p";
 echo "q";
 echo "r";
+echo "s";
+echo "t";
 ?>
